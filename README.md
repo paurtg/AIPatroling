@@ -15,7 +15,7 @@ Make three new materials and asing a different colour for each one. Add a differ
 
 Create a new folder called Scripts and create a new script called `EnemyAI`.
 
-We are going to make our enemy patrol between specific waypoints, in any order we want, and a speed public variable so we can choose how fast we want the enemy to patrol around. To make this we will need a `public Transform` which means wherever the waypoints are, a `public int` for the speed so we can change it in inside Unity. We will also make a `private int waypointsIndex which will show us the array in the inspector and a `float dist` to check the distance between our AI and the current waypoint.
+We are going to make our enemy patrol between specific waypoints, in any order we want, and a speed public variable so we can choose how fast we want the enemy to patrol around. To make this we will need a `public Transform` which means wherever the waypoints are, a `public int` for the speed so we can change it in inside Unity. We will also make a `private int waypointsIndex` which will show us the array in the inspector and a `float dist` to check the distance between our AI and the current waypoint.
 
 ![Capture](https://user-images.githubusercontent.com/91539042/136865476-df1c8cf5-2c12-47ad-8ab6-0503a0696651.PNG)
 
