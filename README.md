@@ -51,5 +51,5 @@ Add the script to our `Enemy`. In the inspector choose a number size for the wyp
 
 ## 6. Testing
 
-Test if the speed and AI are working properly and set your speed to any number that suits your game/AI, you can also add as many waypoints as you would like.
+Test by running the game. Check if the speed and AI are working properly and set your speed to any number that suits your game, you can also add as many waypoints as you would like.
 
