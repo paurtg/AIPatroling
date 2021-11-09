@@ -45,7 +45,7 @@ We will add a `Patrol()` to make sure the AI is patroling in every moment.
 
 ## 5. In the inspector
 
-Add the script to our `Enemy`. In the inspector choose a number size for the wypoints, we currently have 3 so we will need to write that down. In every `waypoint` element drag one of the small 3D cubes until filling every space and set a speed that suits your AI.
+Add the script to our `Enemy`. In the inspector choose a number size for the waypoints, we currently have 3 so we will need to write that down. In every `waypoint` element drag one of the small 3D cubes until filling every space and set a speed that suits your AI.
 
 ![7](https://user-images.githubusercontent.com/91539042/136867296-dcbecdd2-a08e-437e-93e5-f332f20acf52.PNG)
 
